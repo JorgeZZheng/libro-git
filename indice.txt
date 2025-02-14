@@ -1,4 +1,4 @@
-https://i.gyazo.com/32c99b2cc63263800ff63c3253b8d144.pngnuevo nuevo
+nuevo nuevo
 Capitulo 1: Introducion a Git
 Capitulo 3: Gestión de ramas
 Capitulo 4: Repositorios remotos
